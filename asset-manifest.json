@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chrisw-wsu/word_guessing/static/css/main.bb3bfa6c.css",
-    "main.js": "/chrisw-wsu/word_guessing/static/js/main.9bc7ef20.js",
-    "static/js/787.3500bfec.chunk.js": "/chrisw-wsu/word_guessing/static/js/787.3500bfec.chunk.js",
-    "index.html": "/chrisw-wsu/word_guessing/index.html",
-    "main.bb3bfa6c.css.map": "/chrisw-wsu/word_guessing/static/css/main.bb3bfa6c.css.map",
-    "main.9bc7ef20.js.map": "/chrisw-wsu/word_guessing/static/js/main.9bc7ef20.js.map",
-    "787.3500bfec.chunk.js.map": "/chrisw-wsu/word_guessing/static/js/787.3500bfec.chunk.js.map"
+    "main.css": "/word_guessing/static/css/main.bb3bfa6c.css",
+    "main.js": "/word_guessing/static/js/main.d58ddc19.js",
+    "static/js/787.3500bfec.chunk.js": "/word_guessing/static/js/787.3500bfec.chunk.js",
+    "index.html": "/word_guessing/index.html",
+    "main.bb3bfa6c.css.map": "/word_guessing/static/css/main.bb3bfa6c.css.map",
+    "main.d58ddc19.js.map": "/word_guessing/static/js/main.d58ddc19.js.map",
+    "787.3500bfec.chunk.js.map": "/word_guessing/static/js/787.3500bfec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb3bfa6c.css",
-    "static/js/main.9bc7ef20.js"
+    "static/js/main.d58ddc19.js"
   ]
 }
