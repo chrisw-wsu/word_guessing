@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MARCS/test/static/css/main.bb3bfa6c.css",
-    "main.js": "/MARCS/test/static/js/main.5b87093e.js",
-    "static/js/787.3500bfec.chunk.js": "/MARCS/test/static/js/787.3500bfec.chunk.js",
-    "index.html": "/MARCS/test/index.html",
-    "main.bb3bfa6c.css.map": "/MARCS/test/static/css/main.bb3bfa6c.css.map",
-    "main.5b87093e.js.map": "/MARCS/test/static/js/main.5b87093e.js.map",
-    "787.3500bfec.chunk.js.map": "/MARCS/test/static/js/787.3500bfec.chunk.js.map"
+    "main.css": "/word_guessing/static/css/main.bb3bfa6c.css",
+    "main.js": "/word_guessing/static/js/main.d58ddc19.js",
+    "static/js/787.3500bfec.chunk.js": "/word_guessing/static/js/787.3500bfec.chunk.js",
+    "index.html": "/word_guessing/index.html",
+    "main.bb3bfa6c.css.map": "/word_guessing/static/css/main.bb3bfa6c.css.map",
+    "main.d58ddc19.js.map": "/word_guessing/static/js/main.d58ddc19.js.map",
+    "787.3500bfec.chunk.js.map": "/word_guessing/static/js/787.3500bfec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb3bfa6c.css",
-    "static/js/main.5b87093e.js"
+    "static/js/main.d58ddc19.js"
   ]
 }
