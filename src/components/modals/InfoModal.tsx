@@ -46,6 +46,10 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       <p className="text-sm text-gray-500 dark:text-gray-300">
         The letter U is not in the word in any spot.
       </p>
+      <p className="text-sm text-gray-900 dark:text-gray-300">
+        Ask Chris W for more information.
+      </p>
+      
     </BaseModal>
   )
 }

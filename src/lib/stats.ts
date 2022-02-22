@@ -45,6 +45,7 @@ const defaultStats: GameStats = {
 
 export const loadStats = () => {
   return loadStatsFromLocalStorage() || defaultStats
+
 }
 
 const getSuccessRate = (gameStats: GameStats) => {
